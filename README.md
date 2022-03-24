@@ -1,4 +1,4 @@
-# Undergraduate senior project:PWM-power-Regulator-smart-air-purifier
+# Undergraduate senior project : PWM-power-Regulator-smart-air-purifier
 以 PWM 實現動力調節之智慧型空氣清淨機
 
 FPGA板:Xilinx-Spartan-3
